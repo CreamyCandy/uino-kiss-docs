@@ -3,5 +3,5 @@
 </video> -->
 <div style="text-align: center;">
   <p>假装这里是新凯剪辑的视频（怎么办呢~太大了~被github限制了~哭唧唧~）</p>
-  <img src="/static/temp.jpg" />
+  <img src="/uino-kiss-docs/docs/static/temp.jpg" />
 </div>
